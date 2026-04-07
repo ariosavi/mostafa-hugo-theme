@@ -1,9 +1,9 @@
 name = 'Mostafa Hugo Theme'
 license = 'MIT'
-licenselink = 'https://github.com/mirmousaviii/mostafa-hugo-theme/blob/main/LICENSE'
+licenselink = 'https://github.com/ariosavi/mostafa-hugo-theme/blob/main/LICENSE'
 description = 'A responsive theme with supports multilingual and various content types.'
-homepage = 'https://github.com/mirmousaviii/mostafa-hugo-theme'
-demosite = 'https://mirmousaviii.github.io/mostafa-hugo-theme/'
+homepage = 'https://github.com/ariosavi/mostafa-hugo-theme'
+demosite = 'https://ariosavi.github.io/mostafa-hugo-theme/'
 tags = [
     'blog',
     'responsive',
@@ -33,4 +33,4 @@ min_version = "0.125.7"
 
 [author]
   name = 'Mostafa Mirmousavi'
-  homepage = 'https://mirmousavi.com/'
+  homepage = 'https://ariosavi.com/'
